@@ -298,11 +298,3 @@ SELECT * FROM report_products  ORDER BY total_sales DESC;
 
 ---
 
-## 📄 License
-
-This project is built for educational and portfolio purposes.
-
-
----
-
-Save this as `README.md` in your GitHub repository root folder and it will render beautifully! 🎉
