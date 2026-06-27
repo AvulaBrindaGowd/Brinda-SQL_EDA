@@ -1,4 +1,4 @@
-markdown
+
 # 📊 SQL Data Analytics Project
 
 A comprehensive data analytics project built on a **Gold Layer Data Warehouse** 
